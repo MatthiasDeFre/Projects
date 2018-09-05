@@ -1,7 +1,6 @@
 # Projects
 WIP
 
-Project Pazaak:
 
 
 Project BreakoutGame Java:
