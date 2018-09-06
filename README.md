@@ -8,7 +8,10 @@ Project BreakoutGame Net:
 
 Repository: https://github.com/MatthiasDeFre/Pazaak
 
-Gameplay: VID INC
+Gameplay: https://www.youtube.com/watch?v=fEp8Inp7PU8
+
+Credits: https://www.youtube.com/watch?v=9fWD75DQ75A
+
 
 ## Project HelpDeskDeFre:
 
