@@ -1,7 +1,5 @@
 # Projects
-WIP
 
-Project BreakoutGame Net:
 
 ## Project Pazaak:
 
@@ -28,3 +26,11 @@ Screenshots: can be found in the project repo README.md
 Repository: https://github.com/MatthiasDeFre/BreakoutGame-Java
 
 Screenshots: can be found in the project repo README.md
+
+## Project BreakoutGame NET
+
+Repository: https://github.com/MatthiasDeFre/Breakout-NET
+
+# Contact
+
+Email: matthiasdefre@hotmail.com
