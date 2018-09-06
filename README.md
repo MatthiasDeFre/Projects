@@ -20,6 +20,8 @@ Repository: https://github.com/MatthiasDeFre/HelpdeskDF
 
 Link: https://helpdesk-frontend.herokuapp.com
 
+Screenshots: can be found in the project repo README.md
+
 
 ## Project BreakoutGame Java:
 
