@@ -31,6 +31,10 @@ Screenshots: can be found in the project repo README.md
 
 Repository: https://github.com/MatthiasDeFre/Breakout-NET
 
+## Project FTP server: Very early WIP (C#)
+
+Repository: https://github.com/MatthiasDeFre/FTP-Server
+
 # Contact
 
 Email: matthiasdefre@hotmail.com
