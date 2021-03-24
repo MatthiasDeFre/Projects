@@ -35,6 +35,20 @@ Repository: https://github.com/MatthiasDeFre/Breakout-NET
 
 Repository: https://github.com/MatthiasDeFre/FTP-Server
 
+## Project Exiled
+
+Repository: https://github.com/MatthiasDeFre/Exiled-IOS
+
+Screenshots: can be found in the project repo README.md
+
+## Project Reva-Backend
+
+## Project Reva-Android
+
+## Project Reva-Angular
+
+## Project Augmented Museum Android Application
+
 # Contact
 
 Email: matthiasdefre@hotmail.com
